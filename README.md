@@ -6,6 +6,9 @@ SecureSwap-Auto Exchange was a project for PayPal to LTC exchange. The LTC was s
 This Bot was my first Bot ever. I tried some random stuff such as creating ur own embed and other stuff like that.
 # CodedSmthForSomeone
 Someone asked me to Code this Bot which, when I read it correctly, is a Ticket system. I made it for 7$ and wrote some info for the user who bought it.
+# StoreCredit
+StoreCredit was the last Bot I coded for someone. It includes many things such as a Ticket system with commands, a wheel which you can spin monthly, 2 ping commands where it checks if you have enough balance that it pings a specific role for you and subtract a amount from ur balance, and many other stuff.
+
 
 # About Raichi (creator)
 Im raichi_da_goat on Discord. I always wanted to code since coding seems fun and you can make everything out of coding. Thats why I learned python, especially discord.py. I created many things now and I am happy that I can do something which I couldnt do some months ago.
